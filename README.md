@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|  08.01.2023  23:00 |  10     |
+|  05.01.2024  23:00 |  10     |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -36,4 +36,4 @@ faktur i magazynu:
 - czy opracje te dają odpowiedni wynik
 
 Do realizacji testów użyj *test double (stub, dummy, fake, spy oraz mock)* 
-o odpowiedniej funkcjonalności.
+o odpowiedniej funkcjonalności. Wytłumacz czym się różnią.
